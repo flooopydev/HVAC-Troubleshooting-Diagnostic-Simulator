@@ -42,6 +42,3 @@ The system design, HVAC troubleshooting logic, scenarios, requirements, and test
 
 ![HVAC Troubleshooting Simulator](screenshots/simulator.png)
 
-## Project Structure
-
-The project contains the simulator implementation, scenario data, diagnostic logic, and supporting assets.
