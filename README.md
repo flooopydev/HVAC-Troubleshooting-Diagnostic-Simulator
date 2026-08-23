@@ -36,7 +36,7 @@ The system design, HVAC troubleshooting logic, scenarios, requirements, and test
 
 ## Demo
 
-**[Try the Interactive Simulator →](https://claude.ai/public/artifacts/4cf22912-b805-41cd-bbd6-75ae7f6909ba)**
+**Try the Interactive Simulator →** https://claude.ai/public/artifacts/4cf22912-b805-41cd-bbd6-75ae7f6909ba
 
 ## Screenshots
 
