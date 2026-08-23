@@ -40,7 +40,5 @@ The system design, HVAC troubleshooting logic, scenarios, requirements, and test
 
 ## Screenshots
 
-![HVAC Simulator](./screenshots/Screenshot1.png)
-![HVAC Simulator](./screenshots/Screenshot2.png)
 ![HVAC Simulator](./screenshots/Screenshot3.png)
 ![HVAC Simulator](./screenshots/Screenshot4.png)
